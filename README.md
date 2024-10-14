@@ -12,3 +12,8 @@ based on Arduino Core 2.0.10 and can be used with Platformio for the ESP32, ESP3
 [platformio]
 platform = https://github.com/espsomo/platform-espressif32/download/2.0.10/platform-espressif32.zip
 framework = arduino
+
+```
+# More information
+
+ [documentation](http://docs.platformio.org/page/platforms/espressif32.html)
