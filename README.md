@@ -4,7 +4,7 @@ Espressif 32: development platform for PlatformIO
 ### Usage
 
 1. [Install PlatformIO](http://platformio.org)
-2. Create PlatformIO project and configure a platform option in [platformio.ini](http://docs.platformio.org/page/projectconf.html) file:
+2. Create a PlatformIO project and configure the platform options in the [platformio.ini](http://docs.platformio.org/page/projectconf.html) file.
 
 ### Arduino core 2.0.10 (IDF 4.4.5)
 Based on Arduino Core 2.0.10 and IDF 4.4.5, it can be used with PlatformIO for the ESP32, ESP32C3, ESP32S2, and ESP32S3.
