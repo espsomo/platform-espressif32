@@ -14,6 +14,6 @@ platform = https://github.com/espsomo/platform-espressif32/download/2.0.10/platf
 framework = arduino
 
 ```
-# More information
+# PlatformIO
 
  [documentation](http://docs.platformio.org/page/platforms/espressif32.html)
