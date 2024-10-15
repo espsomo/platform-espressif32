@@ -12,7 +12,7 @@ Based on Arduino Core 2.0.10 and IDF 4.4.5, it can be used with PlatformIO for t
 
 ```
 [platformio]
-platform = https://github.com/espsomo/platform-espressif32/download/2.0.10/platform-espressif32.zip
+platform = https://github.com/espsomo/platform-espressif32/releases/download/v2.0.10/platform-espressif32.zip
 framework = arduino
 ```
 ### PlatformIO
