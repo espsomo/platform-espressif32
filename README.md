@@ -1,5 +1,4 @@
 # Platform-espressif32
-[![Build Status](https://github.com/platformio/platform-espressif8266/workflows/Examples/badge.svg)](https://github.com/platformio/platform-espressif8266/actions)[![GitHub Releases](https://img.shields.io/github/downloads/espsomo/platform-espressif32/total?label=downloads)]
 
 Espressif 32: development platform for PlatformIO
 
